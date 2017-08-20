@@ -1,11 +1,5 @@
 var tableArray = [
 {
-"customerName": "John",
-"customerEmail": "John@bendfeldt.com",
-"customerID": "Jbendfeldt",
-"phoneNumber": "555-555-5555"
-},
-{
 "customerName": "Andi",
 "phoneNumber": "888-888-8888",
 "customerEmail": "andi@thecutest.com",
@@ -15,19 +9,19 @@ var tableArray = [
 "customerName": "America",
 "phoneNumber": "777-777-7777",
 "customerEmail": "america.com",
-"customerID": "America"
+"customerID": "George"
 },
 {
 "customerName": "American Freedom",
 "phoneNumber": "7777777777",
 "customerEmail": "American@Freedom.com",
-"customerID": "American Freedom"
+"customerID": "Michael"
 },
 {
 "customerName": "Hello",
 "phoneNumber": "555-555-5555",
 "customerEmail": "Hello@goodbye.com",
-"customerID": "hello!"
+"customerID": "Cinnabun"
 },
 {
 "customerName": "Andrea",
@@ -36,10 +30,10 @@ var tableArray = [
 "customerID": "Andrea"
 },
 {
-"customerName": "Andi",
+"customerName": "Kitteh",
 "phoneNumber": "111-111-1111",
-"customerEmail": "andrea@nixon.com",
-"customerID": "Andi"
+"customerEmail": "Kitteh@cat.com",
+"customerID": "Kitteh"
 },
 {
 "customerName": "John Bendfeldt",
